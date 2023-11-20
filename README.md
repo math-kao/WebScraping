@@ -1,3 +1,3 @@
-# WebScraping Salary Report from US database
+# WebScraping Projects
 
-Webscraping only using pandas to scrap html data from website.
+Webscraping 'mining' data using pandas and bs4
