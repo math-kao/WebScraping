@@ -1,1 +1,6 @@
+Using selenium to scrap Linkedin job positions 
+
+- job positions: Filtered on my LinkedinPage and adding url as argument 'get' function.
+- html and css: class_name, id, link_text, xpath
+- I choose to not store 'account' and 'password' as environment variablesm just change to '#######'
 
