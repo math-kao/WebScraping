@@ -1,3 +1,3 @@
 # WebScraping Projects
 
-Webscraping 'mining' data using pandas and bs4
+Webscraping data mining using pandas and bs4
